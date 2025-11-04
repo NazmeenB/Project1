@@ -26,5 +26,5 @@ This project aims to predict liver disease presence using patient health data. I
 
 ## Results
 - Achieved a model accuracy of approximately 94% with the SVM Model.  
-- Key features influencing predictions include [list prominent features].  
+- Key features influencing predictions include category age, sex, albumia, alkaline_phosphatase, alanine_aminotransferase, aspartate_aminotransferase, bilirubin,cholinesterase, cholesterol, creatinina, gamma_glutamyl_transferase, protein.                                   .  
 - The interactive app enables easy access to predictions, supporting clinical decision-making.
