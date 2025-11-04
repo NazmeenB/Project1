@@ -6,7 +6,7 @@ This project aims to predict liver disease presence using patient health data. I
 ## Dataset
 - **File:** project-data.csv  
 - **Description:** Patient health metrics including demographic, biochemical, and clinical variables related to liver health.  
-- **Size:** Approximately [specify rows, e.g., 500] records with [specify columns, e.g., 10] features including the target label indicating disease presence.
+- **Size:** Approximately 600 records with 12 features including the target label indicating disease presence.
 
 ## Tools and Technologies
 - **Python:** pandas, numpy, matplotlib, seaborn for data handling and visualization  
@@ -25,6 +25,6 @@ This project aims to predict liver disease presence using patient health data. I
 7. **Presentation:** Created a concise PPT summarizing methodologies, insights, model performance, and recommendations.
 
 ## Results
-- Achieved a model accuracy of approximately [insert accuracy]% with the [best model name].  
+- Achieved a model accuracy of approximately 94% with the SVM Model.  
 - Key features influencing predictions include [list prominent features].  
 - The interactive app enables easy access to predictions, supporting clinical decision-making.
