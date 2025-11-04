@@ -4,7 +4,7 @@
 This project aims to predict liver disease presence using patient health data. It demonstrates a full data science workflow from data loading and exploration to model building, evaluation, and deployment as an interactive web app. The project ends with a presentation summarizing the findings and results.
 
 ## Dataset
-- **File:** project-data-1-1.csv  
+- **File:** project-data.csv  
 - **Description:** Patient health metrics including demographic, biochemical, and clinical variables related to liver health.  
 - **Size:** Approximately [specify rows, e.g., 500] records with [specify columns, e.g., 10] features including the target label indicating disease presence.
 
